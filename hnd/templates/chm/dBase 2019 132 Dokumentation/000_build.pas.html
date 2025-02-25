@@ -1,0 +1,67 @@
+<%
+// ----------------------------------------------------------------------------
+// File : CreateContent - Hide Header of all Topics.pas
+// Autor: Jens Kallup  - paule32 aka Blacky Cat
+// Date : 2025 (c) all rights reserved.
+//
+// Description:
+// Create/Combine Topics for a CHM Project. 
+// ----------------------------------------------------------------------------
+// Customization:
+// --------------
+// * TEMPLATE_TOPIC => specify the template for the topics.
+// ----------------------------------------------------------------------------
+const
+  TEMPLATE_TOPIC = 1;
+
+var
+  // Current topic ID
+  aTopicID,
+  topicCaption, topicContentID,
+  htmlTemplate,
+  HtmnlCopy,
+  htmlContent,
+  htmlCss: String;
+(*
+var oEditor: TObject;
+  
+begin
+  // Get first topic
+  aTopicId := HndTopics.GetTopicFirst();
+  // Loop through all topics
+  while aTopicID <> '' do
+  begin
+    TopicCaption := HndTopics.GetTopicCaption(aTopicID);
+    if (TopicCaption = 'Vorlage') or (TopicCaption = 'Template') then
+    begin
+        htmlTemplate := HndTopics.GetTopicContentAsHtml(aTopicID);
+        break;
+    end;
+    aTopicID := HndTopics.GetTopicNext(aTopicId);
+  end;
+
+      
+  aTopicId := HndTopics.GetTopicFirst();
+  while aTopicID <> '' do
+  begin
+    oEditor := HndEditor.CreateTemporaryEditor();
+    try
+        TopicCaption := HndTopics.GetTopicCaption(aTopicID);
+        showmessage(topicCaption);
+        if not ((TopicCaption = 'Vorlage') or (TopicCaption = 'Template')) then
+        begin
+          topicContentID := HndTopics.CreateTopic;
+          HndTopics.SetTopicCaption(aTopicID, 'new ' + topicCaption);      
+          
+          htmlContent := HndTopics.GetTopicContentAsHtml(topicContentID); 
+          htmlContent := StringReplace(htmlTemplate, '[::Template::]', htmlContent, [rfReplaceAll]);
+showmessage(htmlContent);          
+          HndEditor.InsertContentFromHTML(oEditor, htmlContent);    
+        end;
+    finally
+        oEditor.Free;
+    end;
+    aTopicID := HndTopics.GetTopicNext(aTopicId);
+  end;  
+end.*)
+%>
