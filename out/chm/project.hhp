@@ -1,0 +1,33 @@
+[OPTIONS]
+Compatibility=1.1
+Compiled file=F:\Bücher\projects\dBase2019.13.2\src\..\out\chm\dbase2019.chm
+Contents file=toc.hhc
+Default Window=Main
+Default topic=Willkommen.htm
+Display compile progress=No
+Index file=keywords.hhk
+Auto Index=No
+Full-text search=Yes
+Language=0x0407
+Title=Einfache Lehrn-Hilfen
+Error log file=project.log
+[WINDOWS]
+Main="Einfache Lehrn-Hilfen","toc.hhc","keywords.hhk","Willkommen.htm","Willkommen.htm","","","","",0x61520,200,0x304E,[-1,-1,-1,-1],0xB0000,,,0,0,0,0
+[FILES]
+willkommen.htm
+neuesthema.htm
+fehler-nachrichten.htm
+vorlage.htm
+css\base.css
+css\ielte8.css
+css\reset.css
+img\arrow_left.png
+img\arrow_right.png
+img\arrow_up.png
+img\footer-bg.png
+img\header-bg.png
+js\chmRelative.js
+[ALIAS]
+#include .\alias.h
+[MAP]
+#include .\contextnb.h
