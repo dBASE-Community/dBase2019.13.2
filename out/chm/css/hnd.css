@@ -74,73 +74,162 @@ span.rvts13
  color: #ffffff;
  background-color: #000000;
 }
-span.rvts14 /* Font Style */
+a.rvts14, span.rvts14
+{
+ color: #ffffff;
+ background-color: #000000;
+ text-decoration: none;
+}
+span.rvts15 /* Font Style */
 {
  font-family: 'Tahoma', 'Geneva', sans-serif;
  font-style: italic;
  color: #c0c0c0;
 }
-a.rvts15, span.rvts15 /* Font Style */
+a.rvts16, span.rvts16 /* Font Style */
 {
  font-family: 'Tahoma', 'Geneva', sans-serif;
  font-style: italic;
  color: #6666ff;
  text-decoration: underline;
 }
-span.rvts16
-{
- color: #ffffff;
-}
 span.rvts17
 {
- color: #ffff00;
+ font-style: italic;
+ font-weight: bold;
+ color: #ffffff;
+ background-color: #000000;
+ text-decoration: underline;
 }
 span.rvts18
 {
- font-size: 14pt;
- font-family: 'Arial Black', 'Gadget', sans-serif;
+ color: #ffffff;
 }
 span.rvts19
 {
  font-size: 14pt;
- font-family: 'Arial Black', 'Gadget', sans-serif;
+ font-weight: bold;
  color: #ffff00;
 }
 span.rvts20
 {
  font-size: 14pt;
+ font-family: Symbola, 'Lucida Sans Unicode', 'Arial', 'Helvetica', sans-serif;
+ font-weight: bold;
+ color: #ffff00;
+}
+span.rvts21
+{
+ font-size: 14pt;
+ font-weight: bold;
+ color: #bad2e4;
+}
+span.rvts22
+{
+ font-weight: bold;
+ color: #ffff00;
+}
+span.rvts23
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #ffff00;
+ text-decoration: underline;
+}
+span.rvts24
+{
+ font-weight: bold;
+ color: #ffffff;
+}
+span.rvts25
+{
+ font-family: Symbola, 'Lucida Sans Unicode', 'Arial', 'Helvetica', sans-serif;
+ font-style: italic;
+ font-weight: bold;
+ color: #ffff00;
+ text-decoration: underline;
+}
+span.rvts26
+{
+ font-style: italic;
+ font-weight: bold;
+ color: #ffff00;
+}
+a.rvts27, span.rvts27
+{
+ color: #ffffff;
+ text-decoration: none;
+}
+span.rvts28
+{
+ font-size: 16pt;
+ font-style: italic;
+ font-weight: bold;
+ color: #ffff00;
+}
+span.rvts29
+{
+ font-size: 16pt;
+ font-family: Symbola, 'Lucida Sans Unicode', 'Arial', 'Helvetica', sans-serif;
+ font-style: italic;
+ font-weight: bold;
+ color: #ffff00;
+}
+span.rvts30
+{
+ font-size: 12pt;
+ font-weight: bold;
+ color: #00ffff;
+}
+a.rvts31, span.rvts31
+{
+ font-weight: bold;
+ color: #ffffff;
+ text-decoration: none;
+}
+span.rvts32
+{
+ color: #ffff00;
+}
+span.rvts33
+{
+ font-size: 14pt;
+ font-family: 'Arial Black', 'Gadget', sans-serif;
+}
+span.rvts34
+{
+ font-size: 14pt;
+ font-family: 'Arial Black', 'Gadget', sans-serif;
+ color: #ffff00;
+}
+span.rvts35
+{
+ font-size: 14pt;
  font-family: 'Arial Black', 'Gadget', sans-serif;
  color: #ffffff;
 }
-a.rvts21, span.rvts21
+a.rvts36, span.rvts36
 {
  font-style: italic;
  font-weight: bold;
  color: #3366ff;
  text-decoration: none;
 }
-span.rvts22
+span.rvts37
 {
  color: #f2f2f2;
 }
-span.rvts23
+span.rvts38
 {
  font-family: 'Arial Black', 'Gadget', sans-serif;
  color: #f2f2f2;
 }
-span.rvts24
+span.rvts39
 {
  font-size: 11pt;
  font-weight: bold;
  color: #ffffff;
  background-color: #333333;
-}
-span.rvts25
-{
- font-style: italic;
- font-weight: bold;
- color: #ffff00;
- text-decoration: underline;
 }
 /* ========== Para Styles ========== */
 p,ul,ol /* Paragraph Style */
@@ -243,8 +332,10 @@ p,ul,ol /* Paragraph Style */
  margin: 4px 0px 0px 0px;
 }
 /* ========== Lists ========== */
-.list0 {text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: disc;}
-.list1 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: circle;}
+.list0 {text-indent: 0px; padding: 0; margin: 0 0 0 32px; list-style-position: outside; list-style-type: square;}
+.list1 {text-indent: 0px; padding: 0; margin: 0 0 0 40px; list-style-position: outside; list-style-type: circle;}
 .list2 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: square;}
 .list3 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: disc;}
+.list4 {text-indent: 0px; padding: 0; margin: 0 0 0 48px; list-style-position: outside; list-style-type: circle;}
+.list5 {text-indent: 0px; padding: 0; margin: 0 0 0 24px; list-style-position: outside; list-style-type: disc;}
 li.noindent { margin-left: 0; padding-left: 0; }

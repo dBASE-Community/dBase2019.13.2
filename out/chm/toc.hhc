@@ -4,7 +4,7 @@
 <html>
 
 <head>
-	<meta name="generator" content="HelpNDoc Professional Edition 9.7.0.541">
+	<meta name="generator" content="HelpNDoc Ultimate Edition 9.9.0.637">
 </head>
 
 <body>
@@ -28,6 +28,222 @@
 	</li>
 
 			<li> <object type="text/sitemap">
+				<param name="Name" value="Einleitung zu dBASE 2019">
+				
+					<param name="Local" value="EinleitungzudBASE2019.htm">
+				
+			</object>
+
+	<ul>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Was ist neu in dBase 2019">
+				
+					<param name="Local" value="WasistneuindBase2019.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Was ist dBasePLUS">
+				
+					<param name="Local" value="WasistdBasePLUS.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS &Uuml;bersicht der Neuerscheinungen">
+				
+					<param name="Local" value="dBASEPLUSUbersichtderNeuerschein.htm">
+				
+			</object>
+
+	<ul>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.0">
+				
+					<param name="Local" value="dBASEPLUSRelease20.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.2">
+				
+					<param name="Local" value="dBASEPLUSRelease30.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.5">
+				
+					<param name="Local" value="dBASEPLUSRelease31.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.6">
+				
+					<param name="Local" value="dBASEPLUSRelease32.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.61">
+				
+					<param name="Local" value="dBASEPLUSRelease261.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.61.1">
+				
+					<param name="Local" value="dBASEPLUSRelease2611.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.61.2">
+				
+					<param name="Local" value="dBASEPLUSRelease2612.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.61.3">
+				
+					<param name="Local" value="dBASEPLUSRelease2613.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.61.4">
+				
+					<param name="Local" value="dBASEPLUSRelease2614.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.61.5">
+				
+					<param name="Local" value="dBASEPLUSRelease2615.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.62">
+				
+					<param name="Local" value="dBASEPLUSRelease262.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.7">
+				
+					<param name="Local" value="dBASEPLUSRelease27.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.70.1 &amp; 2.70.2">
+				
+					<param name="Local" value="dBASEPLUSRelease27012702.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.70.3">
+				
+					<param name="Local" value="dBASEPLUSRelease2703.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 2.8">
+				
+					<param name="Local" value="dBASEPLUSRelease28.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 8 mit ADO">
+				
+					<param name="Local" value="dBASEPLUSRelease8mitADO.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 9">
+				
+					<param name="Local" value="dBASEPLUSRelease9.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 10">
+				
+					<param name="Local" value="dBASEPLUSRelease10.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 11">
+				
+					<param name="Local" value="dBASEPLUSRelease11.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="dBASE PLUS Release 12">
+				
+					<param name="Local" value="dBASEPLUSRelease12.htm">
+				
+			</object>
+
+	</li></ul></li></ul></li>
+
+			<li> <object type="text/sitemap">
 				<param name="Name" value="Neues Thema">
 				
 					<param name="Local" value="NeuesThema.htm">
@@ -40,6 +256,15 @@
 				<param name="Name" value="Fehler-Nachrichten">
 				
 					<param name="Local" value="Fehler-Nachrichten.htm">
+				
+			</object>
+
+	</li>
+
+			<li> <object type="text/sitemap">
+				<param name="Name" value="Themen-Gruppe">
+				
+					<param name="Local" value="Themen-Gruppe.htm">
 				
 			</object>
 
